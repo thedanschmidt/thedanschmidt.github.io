@@ -1,2 +1,2 @@
 # thedanschmidt.github.io
-My personal page
+My personal page, built with Hugo and Hugo Bear Blog.

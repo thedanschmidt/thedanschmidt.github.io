@@ -1,0 +1,12 @@
+baseURL = "https://thedanschmidt.github.io"
+languageCode = "en-us"
+title = "Dan's Personal Page"
+theme = "bearblog"
+publishdir = "../docs"
+
+copyright = "Copyright © 2020 Dan Schmidt"
+
+enableRobotsTXT = true
+
+[params]
+  hideMadeWithLine = true
