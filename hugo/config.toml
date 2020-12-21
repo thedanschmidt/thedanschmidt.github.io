@@ -10,3 +10,7 @@ enableRobotsTXT = true
 
 [params]
   hideMadeWithLine = true
+
+[markup]
+  [markup.highlight]
+    style = "github"
