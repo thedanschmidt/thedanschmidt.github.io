@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Dan&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2020 Dan Schmidt</copyright>
-    
-	<atom:link href="https://thedanschmidt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright © 2020 Dan Schmidt</copyright><atom:link href="https://thedanschmidt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

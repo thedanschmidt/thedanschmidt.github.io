@@ -1,2 +1,1 @@
-User-Agent: *
-Sitemap: https://thedanschmidt.github.io/sitemap.xml
+User-agent: *
